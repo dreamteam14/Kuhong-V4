@@ -1,4 +1,4 @@
-global.owner = ['62895337278647'] // Put your number here
+global.owner = ['6285865829368'] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -13,7 +13,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'Sticker Creator'
-global.author = 'By RC047 NJENKK'
+global.author = 'KONTOL'
 
 global.multiplier = 69 // The higher, The harder levelup
 
